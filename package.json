@@ -7,7 +7,8 @@
     "lerna": "^3.19.0"
   },
   "scripts": {
-    "sexy": "lerna run sexy"
+    "sexy": "lerna run sexy",
+    "start": "cd packages/common && yarn run start"
   },
   "name": "two-cra-monorepo",
   "version": "1.0.0"
