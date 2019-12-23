@@ -2,5 +2,13 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  },
+  "scripts": {
+    "sexy": "lerna run sexy"
+  },
+  "name": "two-cra-monorepo",
+  "version": "1.0.0"
 }
