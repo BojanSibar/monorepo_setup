@@ -1,3 +1,3 @@
 const commonFn = require("@wrkflow/common");
 
-commonFn();
+commonFn("ShakeSpeare");

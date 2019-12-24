@@ -1,2 +1,2 @@
 const commonFn = require("@wrkflow/common");
-commonFn();
+commonFn("AutoTune");

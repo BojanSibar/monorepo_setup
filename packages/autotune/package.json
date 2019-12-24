@@ -7,6 +7,6 @@
     "common": "1.0.0"
   },
   "scripts": {
-    "sexy": "echo sexy from autotune"
+    "sexy": "node index.js"
   }
 }

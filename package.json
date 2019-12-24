@@ -8,7 +8,8 @@
   },
   "scripts": {
     "sexy": "lerna run sexy",
-    "start": "cd packages/common && yarn run start"
+    "start": "cd packages/common && yarn run start",
+    "version": "lerna version --conventional-commits --yes"
   },
   "name": "two-cra-monorepo",
   "version": "1.0.0"
