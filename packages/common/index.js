@@ -1,3 +1,3 @@
 module.exports = appname => {
-  console.log("zdravo zdravo cao cao from ", appname, ".");
+  console.log("VRBA IS HERE from ", appname, ".");
 };
