@@ -1,5 +1,5 @@
 const _ = require("lodash");
-const commonFn = require("@wrkflow/common");
+const commonFn = require("rakun_common");
 
 const testArray = [1, 2, 3];
 const testValue = 4;

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "common": "1.0.0"
+    "rakun_common": "git://github.com/BojanSibar/monorepo_setup.git#@wrkflow/common@1.0.4"
   },
   "scripts": {
     "sexy": "node index.js"
